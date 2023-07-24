@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://kattukotaswetha.github.io/csb-tx984k/static/js/main.5e3c164f.chunk.js",
+    "main.js.map": "https://kattukotaswetha.github.io/csb-tx984k/static/js/main.5e3c164f.chunk.js.map",
+    "runtime-main.js": "https://kattukotaswetha.github.io/csb-tx984k/static/js/runtime-main.7ce2002c.js",
+    "runtime-main.js.map": "https://kattukotaswetha.github.io/csb-tx984k/static/js/runtime-main.7ce2002c.js.map",
+    "static/js/2.1742162c.chunk.js": "https://kattukotaswetha.github.io/csb-tx984k/static/js/2.1742162c.chunk.js",
+    "static/js/2.1742162c.chunk.js.map": "https://kattukotaswetha.github.io/csb-tx984k/static/js/2.1742162c.chunk.js.map",
+    "index.html": "https://kattukotaswetha.github.io/csb-tx984k/index.html",
+    "precache-manifest.9f09615526eee64ee3ac212f269adbae.js": "https://kattukotaswetha.github.io/csb-tx984k/precache-manifest.9f09615526eee64ee3ac212f269adbae.js",
+    "service-worker.js": "https://kattukotaswetha.github.io/csb-tx984k/service-worker.js",
+    "static/js/2.1742162c.chunk.js.LICENSE.txt": "https://kattukotaswetha.github.io/csb-tx984k/static/js/2.1742162c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce2002c.js",
+    "static/js/2.1742162c.chunk.js",
+    "static/js/main.5e3c164f.chunk.js"
+  ]
+}
